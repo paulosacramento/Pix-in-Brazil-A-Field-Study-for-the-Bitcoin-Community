@@ -450,8 +450,8 @@ Efforts to strengthen the security and anti-theft features of bitcoin wallets on
 ___
 ## Chapter 06: Data Leakage & Scams
 
-![](https://www.psacramento.com/content/images/size/w1600/2023/11/chapter-05-quote.jpg)
-> **Ernesto, the barber** - "Using Pix means we carry less cash, so it is a personal safety improvement. It is safer to walk around with less money in your pocket."
+![](https://www.psacramento.com/content/images/2023/11/chapter-06-quote.jpg)
+> **Maria Fernanda, the service assistant** - "I would not like to register my CPF as a Pix Key, I would prefer to use my phone number. I think it is more secure."
 
 ### Insight
 
@@ -653,10 +653,7 @@ While privacy-centric solutions may face short-term resistance, especially from 
 
 But Brazil is not alone. In Sweden, the root cause of the problem is not technical, but rather legal: the principle of "_Offentlighetsprincipen_" (Public Access to Information) allows the public to request and access personal information, including home addresses and tax records, of any individual.
 
-[
-Swedish Bitcoiners targeted by armed criminals
-
-Criminals in Sweden are targeting prominent Bitcoin and cryptocurrency proponents due to the ability to request access to residential and financial information from government.](https://cointelegraph.com/news/swedish-bitcoiners-targeted-by-armed-criminals)
+[Criminals in Sweden are targeting prominent Bitcoin and cryptocurrency proponents due to the ability to request access to residential and financial information from government.](https://cointelegraph.com/news/swedish-bitcoiners-targeted-by-armed-criminals)
 
 This principle has inadvertently become a tool for criminals to target bitcoin holders. [Prominent bitcoin figures in Sweden have been specifically targeted due to the ease of access to their personal information](https://cointelegraph.com/news/swedish-bitcoiners-targeted-by-armed-criminals).
 
