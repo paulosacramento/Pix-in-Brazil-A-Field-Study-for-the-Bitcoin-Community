@@ -189,7 +189,7 @@ In the true spirit of open source collaboration, the same content presented in t
 
 No log-in is required to edit the document, but please let me know if you make any changes:
 
-- https://writemd.xyz/d/65ece0d5bf16c4215
+- [https://github.com/paulosacramento/Pix-in-Brazil-A-Field-Study-for-the-Bitcoin-Community](https://github.com/paulosacramento/Pix-in-Brazil-A-Field-Study-for-the-Bitcoin-Community)
 
 This opportunity to review and suggest improvements will be available until the end of 2024.
 
