@@ -20,18 +20,18 @@ The following chapters were written to approach such insights:
 
 **Table of Contents**
 
--   [Introduction](https://www.psacramento.com/p/0e87c481-1c2a-464c-b671-f3e540f86992/#introduction)
--   [Chapter 01: The Big Picture](https://www.psacramento.com/p/0e87c481-1c2a-464c-b671-f3e540f86992/#chapter-01-the-big-picture)
--   [Chapter 02: Political Polarization & Asset Neutrality](https://www.psacramento.com/p/0e87c481-1c2a-464c-b671-f3e540f86992/#chapter-02-political-polarization-amp-asset-neutrality)
--   [Chapter 03: Entrepreneurs’ Perspective - Part I](https://www.psacramento.com/p/0e87c481-1c2a-464c-b671-f3e540f86992/#chapter-03-entrepreneurs-perspective-part-i)
--   [Chapter 04: Entrepreneurs’ Perspective - Part II](https://www.psacramento.com/p/0e87c481-1c2a-464c-b671-f3e540f86992/#chapter-04-entrepreneurs-perspective-part-ii)
--   [Chapter 05: Fear of Violence & Wallets](https://www.psacramento.com/p/0e87c481-1c2a-464c-b671-f3e540f86992/#chapter-05-fear-of-violence-amp-wallets)
--   [Chapter 06: Data Leakage & Scams](https://www.psacramento.com/p/0e87c481-1c2a-464c-b671-f3e540f86992/#chapter-06-data-leakage-amp-scams)
--   [Chapter 07: Designing Contact Lists to Prevent Errors](https://www.psacramento.com/p/0e87c481-1c2a-464c-b671-f3e540f86992/#chapter-07-designing-contact-lists-to-prevent-errors)
--   [Chapter 08: Designing Payment Receipts To Prevent Fraud](https://www.psacramento.com/p/0e87c481-1c2a-464c-b671-f3e540f86992/#chapter-08-designing-payment-receipts-to-prevent-fraud)
--   [Chapter 09: Spending Habits & Different Methods](https://www.psacramento.com/p/0e87c481-1c2a-464c-b671-f3e540f86992/#chapter-09-spending-habits-amp-different-methods)
--   [Chapter 10: The Role of a Trusted Friend for the Elderly](https://www.psacramento.com/p/0e87c481-1c2a-464c-b671-f3e540f86992/#chapter-10-the-role-of-a-trusted-friend-for-the-elderly)
--   [Final Thoughts](https://www.psacramento.com/p/0e87c481-1c2a-464c-b671-f3e540f86992/#final-thoughts)
+-   [Introduction](#introduction)
+-   [Chapter 01: The Big Picture](#chapter-01-the-big-picture)
+-   [Chapter 02: Political Polarization & Asset Neutrality](#chapter-02-political-polarization--asset-neutrality)
+-   [Chapter 03: Entrepreneurs’ Perspective - Part I](#chapter-03-entrepreneurs-perspective---part-i)
+-   [Chapter 04: Entrepreneurs’ Perspective - Part II](#chapter-04-entrepreneurs-perspective---part-ii)
+-   [Chapter 05: Fear of Violence & Wallets](#chapter-05-fear-of-violence--wallets)
+-   [Chapter 06: Data Leakage & Scams](#chapter-06-data-leakage--scams)
+-   [Chapter 07: Designing Contact Lists to Prevent Errors](#chapter-07-designing-contact-lists-to-prevent-errors)
+-   [Chapter 08: Designing Payment Receipts To Prevent Fraud](#chapter-08-designing-payment-receipts-to-prevent-fraud)
+-   [Chapter 09: Spending Habits & Different Methods](#chapter-09-spending-habits--different-methods)
+-   [Chapter 10: The Role of a Trusted Friend for the Elderly](#chapter-10-the-role-of-a-trusted-friend-for-the-elderly)
+-   [Final Thoughts](#final-thoughts)
 
 Each chapter is divided into three sections:
 
@@ -359,7 +359,7 @@ This informal sector is a vital engine of economic activity and livelihood for m
 > **In eleven out of the 27 Brazilian states, more than 50 per cent of workers belonged to the informal sector** and, therefore, do not enjoy the benefits of the protective labor laws.  
 > \- [LSE Latin America and Caribbean blog](https://blogs.lse.ac.uk/latamcaribbean/2020/06/03/the-impact-of-covid-19-on-brazils-precarious-labour-market-calls-for-far-reaching-policies-like-universal-basic-income/)
 
-![](https://www.psacramento.com/content/images/2023/09/Firefly-20230904235545.png)
+![](https://www.psacramento.com/content/images/size/w1000/2024/03/chapter-03-pos.jpg)
 
 Business owner holds a Pix-enabled POS device. Source: Author
 
